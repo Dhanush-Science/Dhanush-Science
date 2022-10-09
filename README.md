@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to **Dhanush** profile
-#### **Electronics Research and Development**
+#### **Electronics Research and Developer**
 ![**Electronics Research and Development**](https://pbs.twimg.com/profile_banners/1572113757589110785/1663663938/600x200)
 
 I am Dhanush from India, and I do electronics and DIY's projects. I also enjoy learning new things and experimenting with it.
