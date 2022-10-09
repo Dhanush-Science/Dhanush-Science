@@ -18,7 +18,3 @@ I am Dhanush from India, and I do electronics and DIY's projects. I also enjoy l
 10. 3D modeling
 
 - 🌱 I’m currently learning Python and Android studio 
-
-
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sparktechind.ml/)  
-
