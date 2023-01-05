@@ -6,15 +6,16 @@ I am Dhanush from India, and I do electronics and DIY's projects. I also enjoy l
 
 **My skills:**
  
-1. Electronics projects
-2. Electronics circuits design
-3. IOT projects
-4. DIY projects
-5. Programing (C/C++/ARDUINO IDE)
-6. Cybersecurity skills
-7. Model Rockets making
-8. Video editing
-9. Poster making and Photo editing
-10. 3D modeling
-
-- 🌱 I’m currently learning Python and Android studio 
+1. Electronics projects making
+2. Electronics circuits designing
+3. Electronics PCB designing
+4. IOT projects making
+5. DIY projects making
+6. Programing (C/C++/ARDUINO IDE)
+7. Cybersecurity skills
+8. Model Rockets making
+9. Video editing
+10. Poster making and Photo editing
+11. 3D modeling
+12. Poster making
+13. Website UI/UX designing
